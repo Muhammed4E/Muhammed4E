@@ -1,5 +1,13 @@
-- 👋 Hi, I’m Muhammed Nasser
-- 👀 I’m interested in Web Development and Psychology!
-- 💞️ Now, I’m looking for an internship to better enhance my skills.
+Welcome to my GitHub repository! I'm Muhammed Nasser, passionate about Web Development and Psychology. Currently seeking internships to enhance my skills.
 
-You can access my personal portfolio at [mohamednasser.vercel.app](mohamednasser.vercel.app)
+### Projects
+
+Explore my web development journey through various projects here.
+
+### Get in Touch
+
+- **Portfolio:** [mohamednasser.vercel.app](https://mohamednasser.vercel.app)
+- **Email:** [Muhammed4E@proton.me](mailto:muhammed4e@proton.me)
+- **LinkedIn:** [Muhammed Nasser](https://www.linkedin.com/@Muhammed4E)
+
+Let's connect and create! 😊🚀
