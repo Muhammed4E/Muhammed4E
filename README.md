@@ -1,4 +1,4 @@
-Welcome to my GitHub repository! I'm Muhammed Nasser, passionate about Web Development and Psychology. Currently seeking internships to enhance my skills.
+Welcome to my GitHub profile! I'm Muhammed Nasser, passionate about Web Development and Psychology. Currently seeking internships to enhance my skills.
 
 ### Projects
 
